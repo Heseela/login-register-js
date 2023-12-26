@@ -1,0 +1,59 @@
+.login{
+    background-color: rgb(249, 169, 169);
+    height: 300px;
+    width: 30%; 
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    transform:translateY(-1000%);
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+.input-box input{
+    width:98%;
+   height: 30px;
+}
+
+.forgot{
+    margin: 10px 0px;
+}
+
+.box{
+    width: 100px;
+    font-weight: 600;
+    padding: 7px;
+    background-color:  rgb(92, 92, 242);
+    border: none;
+    color: white;
+}
+
+.register{
+    background-color: rgb(149, 255, 210);
+    height: 450px;
+    width: 30%;
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    transform:translateY(-1000%);
+}
+
+input#name{
+    width: 98%;
+    height: 22px;
+}
+input#submit{
+    width: 100px;
+    font-weight: 600;
+    padding: 7px;
+    background-color:  rgb(92, 92, 242);
+    border: none;
+    color: white;
+}
+
+
+.btns{
+    display: flex;
+    gap: 20px;
+}
